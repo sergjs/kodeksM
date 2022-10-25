@@ -1,0 +1,23 @@
+.modal_row_multiselect {
+    display: flex;
+    width: 415px;
+    border: 1px solid #C6C6C6;
+    border-radius: 2px;
+    transition: border 0.2s ease;
+    padding: 3px 5px;
+  }
+
+  .modal_row_multiselect:hover{
+    border-color: #0d62ff;
+  }
+
+  .text_multiselect{
+    display: flex;
+    background-color: #ebebeb;
+    margin-right: 5px;
+    padding: 1px 5px;
+  }
+  .text_multiselect>p{
+    margin: 0;
+  }
+    

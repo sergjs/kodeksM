@@ -1,0 +1,30 @@
+.it,
+.ita {
+  font-family: "Arial";
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -webkit-transition:  all ease .2s;
+  -moz-transition:  all ease .2s;
+  transition:  all ease .2s;
+  padding: 10px 12px;
+  border: 1px solid #d5d4d2;
+  width: 100%;
+  outline:none
+}
+
+.it:hover,
+.ita:hover {
+  border: 1px solid #246aab;
+}
+
+.it:focus,
+.ita:focus {
+  border: 1px solid #0d61ff;
+}
+
+.it:disabled,
+.ita:disabled {
+  border: 1px solid #d5d4d2;
+  background: #e1e1df;
+}

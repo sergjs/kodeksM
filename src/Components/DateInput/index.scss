@@ -1,0 +1,30 @@
+.date-select {
+    display: flex;
+  
+    &_dates {
+      label {
+        padding: 0.20em;
+      }
+    }
+    .placeholder {
+      color: rgb(213, 212, 210);
+    }
+  }
+  .date-select_dates{
+    label + label{
+          animation-duration: .5s;
+          animation-name: slidein;
+        }
+        @keyframes slidein {
+          from {
+            margin-left: -50px;
+            opacity: 0;
+          }
+        
+          to {
+            margin-left: -2px;
+            opacity: 1;
+          }
+        }
+  }
+  

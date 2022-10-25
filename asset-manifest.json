@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sergjs/kodeksM.git/static/css/main.3b3f3942.css",
-    "main.js": "/sergjs/kodeksM.git/static/js/main.335b3aca.js",
+    "main.js": "/sergjs/kodeksM.git/static/js/main.6e9c5471.js",
     "static/js/787.28cb0dcd.chunk.js": "/sergjs/kodeksM.git/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/sergjs/kodeksM.git/index.html",
     "main.3b3f3942.css.map": "/sergjs/kodeksM.git/static/css/main.3b3f3942.css.map",
-    "main.335b3aca.js.map": "/sergjs/kodeksM.git/static/js/main.335b3aca.js.map",
+    "main.6e9c5471.js.map": "/sergjs/kodeksM.git/static/js/main.6e9c5471.js.map",
     "787.28cb0dcd.chunk.js.map": "/sergjs/kodeksM.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b3f3942.css",
-    "static/js/main.335b3aca.js"
+    "static/js/main.6e9c5471.js"
   ]
 }
